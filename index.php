@@ -61,7 +61,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=tipos&file=aritmetico">
+                            <a href="exercicio.php?dir=tipos&file=aritmeticas">
                                 Aritméticos
                             </a>
                         </li>
