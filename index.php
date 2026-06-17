@@ -71,6 +71,11 @@
                             </a>
                         </li>
                         <li>
+                            <a href="exercicio.php?dir=tipos&file=booleanos">
+                                Booleanos
+                            </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=tipos&file=desafio_precedencia">
                                 Desafio
                             </a>
