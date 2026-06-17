@@ -24,7 +24,7 @@ echo '<small>';
         background-color: #4286f4;
         color: #EEE;
         font-weight: bold;
-        border-radius: <?= 5+5 ?>px;
+        border-radius: <?= 5 + 5 ?>px;
     }
 
     [center] {
