@@ -55,6 +55,16 @@
                                 Inteiros
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=float">
+                                Floats
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=aritmetico">
+                                Aritméticos
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
