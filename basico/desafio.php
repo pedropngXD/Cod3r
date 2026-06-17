@@ -1,0 +1,21 @@
+<div class="titulo">Desafio</div>
+
+<ul>
+    <li> 1 + 1 = ? </li>
+    <li> 4 + 4 = ? </li>
+    <li> 8 + 8 = ? </li>
+    <li> 16 + 16 = ? </li>
+</ul>
+
+<?php
+$valor1 = 16;
+$valor2 = $valor1;
+$resultado = $valor1 + $valor2
+?>
+
+<ul>
+    <li> 1 + 1 = <?= 1 + 1 ?> </li>
+    <li> 4 + 4 = <?php echo 4 + 4 ?></li>
+    <li> 8 + 8 = <?= "1" ?><?php echo 3 + 3 ?></li>
+    <li> 16 + 16 = <?php echo $resultado ?> </li>
+</ul>
