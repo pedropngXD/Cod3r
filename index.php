@@ -18,7 +18,7 @@
         <div class="conteudo">
             <nav class="modulos">
                 <div class="modulo verde">
-                    <h3>Modulo 01</h3>
+                    <h3>Básico</h3>
                     <ul>
                         <li>
                             <a href="exercicio.php?dir=basico&file=ola">
@@ -43,6 +43,16 @@
                         <li>
                             <a href="exercicio.php?dir=basico&file=desafio">
                                 Desafio
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="modulo vermelho-escuro">
+                    <h3>Tipos</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=int">
+                                Inteiros
                             </a>
                         </li>
                     </ul>
