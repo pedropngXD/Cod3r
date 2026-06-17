@@ -66,6 +66,11 @@
                             </a>
                         </li>
                         <li>
+                            <a href="exercicio.php?dir=tipos&file=string">
+                                Strings
+                            </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=tipos&file=desafio_precedencia">
                                 Desafio
                             </a>
