@@ -17,14 +17,14 @@ echo "Estou no PHP";
 
 <?php
 /*
-    Linhda 1 do comentário
-    Linhda 2 do comentário
-    Linhda 3 do comentário
-    Linhda 4 do comentário
-    Linhda 5 do comentário
-    Linhda 6 do comentário
-    Linhda 7 do comentário
-    Linhda 8 do comentário
+    Linha 1 do comentário
+    Linha 2 do comentário
+    Linha 3 do comentário
+    Linha 4 do comentário
+    Linha 5 do comentário
+    Linha 6 do comentário
+    Linha 7 do comentário
+    Linha 8 do comentário
 ?> comentário mais forte que o fechamento do bloco*/ 
 ?>
 
