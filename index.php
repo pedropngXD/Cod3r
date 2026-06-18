@@ -120,6 +120,11 @@
                                 Desafio Equação
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=desafio_variaveis">
+                                Desafio variáveis
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
