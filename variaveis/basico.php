@@ -25,5 +25,20 @@ echo '<br>' . $variavel;
 $variavel = "Agora sou uma string";
 echo '<br>' . $variavel;
 
+//nomes de variáveis
+$var = 'válida';
+$var2 = 'válida';
+$VAR2 = 'válida';
+$_var_4 = 'válida';
+$vâr4 = 'válida'; //evitar acentos
+//$6var = 'inválida';
+//$%7var = 'inválida';
+//$8var% = 'inválida';
+//$9-var = 'inválida';
+
+echo '<br>';
+var_dump($_SERVER['HTTP_HOST']);
+var_dump($_SERVER);
+
 
 ?>
