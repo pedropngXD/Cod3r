@@ -116,6 +116,11 @@
                             </a>
                         </li>
                         <li>
+                            <a href="exercicio.php?dir=variaveis&file=valor_referencia">
+                                Valor vs Referência
+                            </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=variaveis&file=desafio_equacao">
                                 Desafio Equação
                             </a>
