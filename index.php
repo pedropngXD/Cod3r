@@ -14,86 +14,24 @@
         <h1>Curso PHP</h1>
         <h2>Índice dos exercícios</h2>
     </header>
+
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
-                <div class="modulo verde">
-                    <h3>Básico</h3>
+
+                <div class="modulo azul">
+                    <h3>4. Controle</h3>
                     <ul>
                         <li>
-                            <a href="exercicio.php?dir=basico&file=ola">
-                                Olá PHP
-                            </a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=basico&file=html">
-                                Integração HTML
-                            </a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=basico&file=css">
-                                Integração CSS
-                            </a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=basico&file=comentarios">
-                                Comentários
-                            </a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=basico&file=desafio">
-                                Desafio
+                            <a href="exercicio.php?dir=controle&file=if_else">
+                                If / Else
                             </a>
                         </li>
                     </ul>
                 </div>
-                <div class="modulo vermelho-escuro">
-                    <h3>Tipos</h3>
-                    <ul>
-                        <li>
-                            <a href="exercicio.php?dir=tipos&file=int">
-                                Inteiros
-                            </a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=tipos&file=float">
-                                Floats
-                            </a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=tipos&file=aritmeticas">
-                                Aritméticos
-                            </a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=tipos&file=string">
-                                Strings
-                            </a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=tipos&file=booleanos">
-                                Booleanos
-                            </a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=tipos&file=conversoes">
-                                Conversões
-                            </a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=tipos&file=desafio_precedencia">
-                                Desafio
-                            </a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=tipos&file=desafio_string">
-                                Desafio String
-                            </a>
-                        </li>
-                    </ul>
-                </div>
+
                 <div class="modulo roxo-escuro">
-                    <h3>Variáveis</h3>
+                    <h3>3. Variáveis</h3>
                     <ul>
                         <li>
                             <a href="exercicio.php?dir=variaveis&file=basico">
@@ -137,9 +75,86 @@
                         </li>
                     </ul>
                 </div>
+
+                <div class="modulo vermelho-escuro">
+                    <h3>2. Tipos</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=int">
+                                Inteiros
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=float">
+                                Floats
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=aritmeticas">
+                                Aritméticos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=string">
+                                Strings
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=booleanos">
+                                Booleanos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=conversoes">
+                                Conversões</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=desafio_precedencia">
+                                Desafio</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=desafio_string">
+                                Desafio String
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="modulo verde">
+                    <h3>1. Básico</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=basico&file=ola">
+                                Olá PHP
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=basico&file=html">
+                                Integração HTML
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=basico&file=css">
+                                Integração CSS
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=basico&file=comentarios">
+                                Comentários
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=basico&file=desafio">
+                                Desafio
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
             </nav>
         </div>
     </main>
+
     <footer class="rodape">
         COD3R & ALUNOS - <?= date('Y'); ?>
     </footer>
