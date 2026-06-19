@@ -116,6 +116,11 @@
                             </a>
                         </li>
                         <li>
+                            <a href="exercicio.php?dir=variaveis&file=constantes">
+                                Constantes
+                            </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=variaveis&file=valor_referencia">
                                 Valor vs Referência
                             </a>
