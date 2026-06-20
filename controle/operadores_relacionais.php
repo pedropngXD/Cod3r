@@ -86,7 +86,8 @@ echo"<br>";
 <style>
 
 p {
-    margin-bottom: 0px
+    margin-bottom: 0px;
+    font-weight: bold;
 }
 
 hr {
