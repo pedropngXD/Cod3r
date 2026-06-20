@@ -4,6 +4,8 @@
 
 echo is_int(PHP_INT_MAX);
 
+//------------------------------//------------------------------//
+
 // int para float
 echo '<br>';
 var_dump(PHP_INT_MAX + 1);
@@ -12,6 +14,8 @@ var_dump(1 + 1.0);
 echo '<br>';
 var_dump((float) 3);
 echo '<br>';
+
+//------------------------------//------------------------------//
  
 //float para int
 echo '<br>';
@@ -23,6 +27,8 @@ var_dump(intval(2.9999));
 echo '<br>';
 var_dump(round(2.8));
 var_dump((int)round(2.8));
+
+//------------------------------//------------------------------//
 
 //operações com string
 echo '<p>Strings</p>';

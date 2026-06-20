@@ -8,6 +8,8 @@ var_dump("Eu também");
 //espaço e acento contam para o encoding UTF-8
 echo '<br>';
 
+//------------------------------//------------------------------//
+
 //concatenação
 echo "Nós também" . ' somos';
 echo '<br>',"O número é " . 123;
@@ -20,6 +22,8 @@ echo "'Teste' " . '"Teste" ' . '\'Teste\' ' . "\"Teste\" ". "\\";
 echo '<br>';
 print("<br>Também existe a função print");
 print"<br>Também existe a função print (sem parênteses)";
+
+//------------------------------//------------------------------//
 
 //algumas funções
 echo '<br>' . strtoupper('maximizado');

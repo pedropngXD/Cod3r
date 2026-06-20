@@ -9,6 +9,8 @@ echo "Estou no PHP";
 // 
 # ?>
 
+//------------------------------//------------------------------//
+
 <p>Depois do primeiro comentário</p>
 <!--
 <p>Comentário HTML</p>
@@ -27,5 +29,7 @@ echo "Estou no PHP";
     Linha 8 do comentário
 ?> comentário mais forte que o fechamento do bloco*/ 
 ?>
+
+//------------------------------//------------------------------//
 
 <p>Depois do segundo comentário</p>

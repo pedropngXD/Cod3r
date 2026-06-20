@@ -9,6 +9,8 @@ $consegui = 'responder';
 $responder = 'esse';
 $esse = 'desafio';
 
+//------------------------------//------------------------------//
+
 echo "Nossa! Eu consegui responder esse desafio.";
 echo '<br>';
 
