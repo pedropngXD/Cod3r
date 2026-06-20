@@ -39,7 +39,7 @@ echo"<br>";
 
 //------------------------------//------------------------------//
 
-echo"<p>Relacionais no If / Else</p><hr>";
+echo'<p class="divisao">Relacionais no If / Else</p><hr>';
 
 $idade = 15;
 
@@ -53,7 +53,7 @@ if($idade < 18) {
 
 //------------------------------//------------------------------//
 
-echo '<p>Spaceship</p><hr>';
+echo '<p class="divisao">Spaceship</p><hr>';
 
 var_dump(500 <=> 3);
 echo"<br>";
@@ -66,7 +66,7 @@ echo"<br>";
 
 //------------------------------//------------------------------//
 
-echo '<p>Valores -> True / False</p><hr>';
+echo '<p class="divisao">Valores -> True / False</p><hr>';
 
 var_dump(!!5);
 echo"<br>";
@@ -79,19 +79,3 @@ echo"<br>";
 
 var_dump(!!" ");
 echo"<br>";
-
-
-?>
-
-<style>
-
-p {
-    margin-bottom: 0px;
-    font-weight: bold;
-}
-
-hr {
-    margin-top: 0px
-}
-
-</style>
