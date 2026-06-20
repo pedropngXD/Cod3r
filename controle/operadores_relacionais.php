@@ -37,9 +37,9 @@ echo"<br>";
 var_dump(111 !== '111'); //true
 echo"<br>";
 
-echo"<p>Relacionais no If / Else</p><hr>";
-
 //------------------------------//------------------------------//
+
+echo"<p>Relacionais no If / Else</p><hr>";
 
 $idade = 15;
 
@@ -50,3 +50,47 @@ if($idade < 18) {
 } else {
     echo "Terceira idade = $idade anos<br>";
 }
+
+//------------------------------//------------------------------//
+
+echo '<p>Spaceship</p><hr>';
+
+var_dump(500 <=> 3);
+echo"<br>";
+
+var_dump(50 <=> 50);
+echo"<br>";
+
+var_dump(5 <=> 50);
+echo"<br>";
+
+//------------------------------//------------------------------//
+
+echo '<p>Valores -> True / False</p><hr>';
+
+var_dump(!!5);
+echo"<br>";
+
+var_dump(!!0);
+echo"<br>";
+
+var_dump(!!"");
+echo"<br>";
+
+var_dump(!!" ");
+echo"<br>";
+
+
+?>
+
+<style>
+
+p {
+    margin-bottom: 0px
+}
+
+hr {
+    margin-top: 0px
+}
+
+</style>
