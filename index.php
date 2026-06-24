@@ -38,6 +38,11 @@
                             </a>
                         </li>
                         <li>
+                            <a href="exercicio.php?dir=array&file=multi">
+                                Multidimensionais
+                            </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=array&file=desafio_sorteio">
                                 Desafio Sorteio
                             </a>
