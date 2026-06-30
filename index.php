@@ -43,6 +43,11 @@
                             </a>
                         </li>
                         <li>
+                            <a href="exercicio.php?dir=array&file=constantes">
+                                Constantes
+                            </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=array&file=desafio_sorteio">
                                 Desafio Sorteio
                             </a>
