@@ -48,6 +48,11 @@
                             </a>
                         </li>
                         <li>
+                            <a href="exercicio.php?dir=array&file=get">
+                                $_GET
+                            </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=array&file=desafio_sorteio">
                                 Desafio Sorteio
                             </a>
