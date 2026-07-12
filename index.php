@@ -53,6 +53,11 @@
                             </a>
                         </li>
                         <li>
+                            <a href="exercicio.php?dir=array&file=post">
+                                $_POST
+                            </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=array&file=desafio_sorteio">
                                 Desafio Sorteio
                             </a>
