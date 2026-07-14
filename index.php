@@ -33,6 +33,11 @@
                             </a>
                         </li>
                         <li>
+                            <a href="exercicio.php?dir=repeticoes&file=break_continue">
+                                Break / Continue
+                            </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=repeticoes&file=desafio_for">
                                 Desafio Laço For
                             </a>
