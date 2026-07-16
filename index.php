@@ -38,6 +38,11 @@
                             </a>
                         </li>
                         <li>
+                            <a href="exercicio.php?dir=repeticoes&file=while">
+                                While / Do While
+                            </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=repeticoes&file=desafio_break_continue">
                                 Desafio Break / Continue
                             </a>
