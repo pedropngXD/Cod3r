@@ -26,6 +26,12 @@
                             <a href="exercicio.php?dir=funcoes&file=escopo">
                                 Escopo
                             </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=args_retorno">
+                                Argumentos e Retorno
+                            </a>
+                        </li>
                     </ul>
                 </div>
 
