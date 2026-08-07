@@ -13,7 +13,7 @@
 <body  class="exercicio">
     <header class="cabecalho">
         <h1>Curso PHP</h1>
-        <h2>Visualizacao do Exercicio</h2>
+        <h2>Visualizaçao do Exercício</h2>
     </header>
     <nav class="navegacao">
         <a href=<?= "{$_GET['dir']}/{$_GET['file']}.php" ?>
