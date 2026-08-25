@@ -32,6 +32,11 @@
                                 Argumentos e Retorno
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=palindromo">
+                                Desafio Palíndormo
+                            </a>
+                        </li>
                     </ul>
                 </div>
 
