@@ -53,6 +53,11 @@
                             </a>
                         </li>
                         <li>
+                            <a href="exercicio.php?dir=funcoes&file=closure_callable">
+                                Closure e Callable
+                            </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=funcoes&file=palindromo">
                                 Desafio Palíndormo
                             </a>
