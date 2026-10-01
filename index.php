@@ -67,6 +67,11 @@
                                 Desafio Palíndormo
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=desafio_recursividade">
+                                Desafio Recursividade
+                            </a>
+                        </li>
                     </ul>
                 </div>
 
