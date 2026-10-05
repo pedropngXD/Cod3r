@@ -63,6 +63,11 @@
                             </a>
                         </li>
                         <li>
+                            <a href="exercicio.php?dir=funcoes&file=retornando_funcao">
+                                Retornando Função
+                            </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=funcoes&file=palindromo">
                                 Desafio Palíndormo
                             </a>
