@@ -68,6 +68,11 @@
                             </a>
                         </li>
                         <li>
+                            <a href="exercicio.php?dir=funcoes&file=map_e_filter">
+                                Map & Filter
+                            </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=funcoes&file=palindromo">
                                 Desafio Palíndormo
                             </a>
