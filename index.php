@@ -19,6 +19,17 @@
         <div class="conteudo">
             <nav class="modulos">
 
+                <div class="modulo azul-escuro">
+                    <h3>8. Funções</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=classe">
+                                Primeira Classe
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
                 <div class="modulo laranja">
                     <h3>7. Funções</h3>
                     <ul>
